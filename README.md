@@ -1,3 +1,3 @@
 # FlutterLayoutChallengeAngelaYuBootcamp
 
-![Screenshot_1607435025](https://user-images.githubusercontent.com/45129432/101494322-38fe9800-3978-11eb-85b4-ea5abbb2e631.png)
+![Layout-Challenge-Specs (2)](https://user-images.githubusercontent.com/45129432/101494888-eec9e680-3978-11eb-990e-2f44cd90a018.png)
